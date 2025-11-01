@@ -58,9 +58,14 @@ A collection of Images showcasing the **Envi-Rover**, **Blynk Dashboard**, and *
 ---
 
 ### 📱 Blynk Dashboard (Mobile)
-![Blynk Mobile 1](Images/blynk_mobile1.jpg)
-![Blynk Mobile 2](Images/blynk_mobile2.jpg)  
-*Blynk mobile app screenshots displaying live readings.*
+
+<p align="center">
+  <img src="Images/blynk_mobile1.jpg" alt="Blynk Mobile 1" width="250"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="Images/blynk_mobile2.jpg" alt="Blynk Mobile 2" width="250"/>
+</p>
+
+<p align="center"><em>Blynk mobile app screenshots displaying live readings.</em></p>
 
 ---
 
@@ -71,7 +76,7 @@ A collection of Images showcasing the **Envi-Rover**, **Blynk Dashboard**, and *
 ---
 
 ### ⚙️ Arduino Setup
-![Arduino Wiring 1](Images/arduino.png)
+![Arduino Wiring 1](Images/arduino.png)  
 *Arduino IDE programming and hardware setup with ESP32 and LoRa modules.*
 
 ---
