@@ -7,9 +7,9 @@ The **Envi-Rover** is a LoRa-based, long-range, remotely operated robotic system
 
 It integrates [ESP32](https://www.espressif.com/en/products/socs/esp32) with various sensors (temperature, humidity, illumination, and gas detection) and a LoRa communication module to transmit data over long distances. Users can access the data via [Blynk](https://blynk.io/) on mobile or PC.
 
-🎥 **Rover in Action:**  
-<p align="center">
-  <img src="Images/ani.gif" alt="Envi-Rover Demo" width="350"/>
+🎥 **Rover :**  
+<p align="left">
+  <img src="Images/ani.gif" alt="Envi-Rover Demo" width="300"/>
 </p>
 
 ---
@@ -67,9 +67,9 @@ A collection of Images showcasing the **Envi-Rover**, **Blynk Dashboard**, and *
 
 ### 📱 Blynk Dashboard (Mobile)
 <p align="center">
-  <img src="Images/blynk_mobile1.jpg" alt="Blynk Mobile 1" width="220"/>
+  <img src="Images/blynk_mobile1.jpg" alt="Blynk Mobile 1" width="200"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="Images/blynk_mobile2.jpg" alt="Blynk Mobile 2" width="220"/>
+  <img src="Images/blynk_mobile2.jpg" alt="Blynk Mobile 2" width="200"/>
 </p>
 <p align="center"><em>Blynk mobile app screenshots displaying live readings.</em></p>
 
@@ -77,7 +77,7 @@ A collection of Images showcasing the **Envi-Rover**, **Blynk Dashboard**, and *
 
 ### 📊 Sensor Readings
 <p align="center">
-  <img src="Images/readings.png" alt="Blynk Readings" width="600"/>
+  <img src="Images/readings.png" alt="Blynk Readings" width="700"/>
 </p>
 <p align="center"><em>Example of temperature, humidity, and gas concentration readings from the rover.</em></p>
 
@@ -85,7 +85,7 @@ A collection of Images showcasing the **Envi-Rover**, **Blynk Dashboard**, and *
 
 ### ⚙️ Arduino Setup
 <p align="center">
-  <img src="Images/arduino.png" alt="Arduino Wiring 1" width="600"/>
+  <img src="Images/arduino.png" alt="Arduino Wiring 1" width="700"/>
 </p>
 <p align="center"><em>Arduino IDE programming and hardware setup with ESP32 and LoRa modules.</em></p>
 
